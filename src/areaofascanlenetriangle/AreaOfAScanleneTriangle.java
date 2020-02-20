@@ -1,4 +1,5 @@
 /*
+ * Jordan Hamilton
  * This Program Calculates The Area of a Scalene Triangle With Given User Input
  */
 
